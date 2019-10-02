@@ -1,0 +1,53 @@
+index,Model Number,Height,Width,Depth,Weight,URL
+0,KX-A420,10,3,5,,
+1,KX-A433,7.25,9.5,10.5,,https://www.teledynamics.com/tdresources/b84910a4-016b-4e39-b84c-c762141b2935.pdf
+2,KXA-433,,,,,
+3,KX-DT346,12,4,9,,
+4,KX-DT546,7,5,10,,https://www.teledynamics.com/tdresources/387a7029-ed88-4641-9974-40cf92fe54c5.pdf
+5,KX-DT590,7,4,7,,https://www.teledynamics.com/tdresources/2d4d7ff2-f0f9-4f6c-91fd-60ad7b6d7f7c.pdf
+6,KX-NCS3102,,,,,
+7,KX-NCS3704,,,,,
+8,KX-NCS4504,,,,,
+9,KX-NS0154,,,,,
+10,KX-NS5110,7,2,11,,https://www.teledynamics.com/tdresources/d40710a4-0d0b-4194-acd3-5bf992f82fc7.pdf
+11,KX-NS5111,11,2,7,,https://www.teledynamics.com/tdresources/343ab1db-b631-4aad-a499-11cdf318a8ad.pdf
+12,KX-NS5162,10,10,10,,https://www.teledynamics.com/tdresources/a474715e-46cc-4076-a702-e52ca30b208f.pdf
+13,KX-NS5170  (DHLC 4),,,,,
+14,KX-NS5171,7,1,5,,https://www.teledynamics.com/tdresources/de616c7e-5e3d-45b8-b0ab-94cf5f23b03d.pdf
+15,KX-NS5172,11,5,8,,https://www.teledynamics.com/tdresources/481da257-47b3-435a-a663-96a8661d8e31.pdf
+16,KX-NS5180 (LCOT 6),,,,,
+17,KX-NS700,18,9,15,,https://www.teledynamics.com/tdresources/56ba35b3-3de8-4dae-99f6-2b327edde723.pdf
+18,KX-NS7130,10,10,10,,https://www.teledynamics.com/tdresources/5e2d5365-4a3a-4990-86c9-cf94dbd96b8a.pdf
+19,KX-NS7134,7,2,11,,
+20,KX-NS7135,10,10,10,,https://www.teledynamics.com/tdresources/0081f6da-dc5f-436f-84e9-b6655528d1d8.pdf
+21,KX-NS720,16,9,18,,https://www.teledynamics.com/tdresources/4ca9b72b-8597-492f-8de3-88e90426a2e3.pdf
+22,KX-NSE210W,,,,,
+23,KX-NSF991W,0.01,0.01,0.01,,https://www.teledynamics.com/tdresources/5b175cf3-7e8e-4606-a319-86b2bd1a5a80.pdf
+24,KX-NSM501W,,,,,
+25,KX-NSM505W,,,,,
+26,KX-NSM520W,,,,,
+27,KX-NSP005W,,,,,https://www.teledynamics.com/tdresources/a8e011f1-eff0-4299-a8f7-659638b1d32f.pdf
+28,KX-NSP210W,,,,,https://www.teledynamics.com/tdresources/fc3e85c8-9276-43a1-b23a-1bb931139c1e.pdf
+29,KX-NSU104W,0.1,0.1,0.1,,https://www.teledynamics.com/tdresources/932730a2-ea58-4258-be64-3ffff6a45770.pdf
+30,KX-NSU205W,,,,,
+31,KX-NSU210W,,,,,https://www.teledynamics.com/tdresources/53a9e81c-739b-4084-ae9a-4732f64b77d8.pdf
+32,KX-NSU220W,,,,,https://www.teledynamics.com/tdresources/38e54bc7-f57d-402b-9d20-a93b00ec92c0.pdf
+33,KX-NT505-B,,,,,
+34,KX-NT543-B,8,12,5,,https://www.teledynamics.com/tdresources/c3f6972b-f3fb-4088-83fe-d0771efc28df.pdf
+35,KX-NT546-B,8,12,5,,https://www.teledynamics.com/tdresources/9e047d8e-b940-4bb0-b588-bdebe897de9f.pdf
+36,KX-NT551-B,9,5,9,,https://www.teledynamics.com/tdresources/66b6ea2e-c21f-405d-ab08-6666088d6d59.pdf
+37,KX-NT553,8,5,11,,https://www.teledynamics.com/tdresources/3a0ab40f-9177-4363-8af6-59a47d763a98.pdf
+38,KX-NT556,,,,,
+39,KX-NT556-B,,,,,
+40,KX-NT556-W,,,,,
+41,KX-NT560,8,5,11,,https://www.teledynamics.com/tdresources/c63b3fb1-b2fa-4439-ae1b-602ae2ea21c1.pdf
+42,KX-PRW130W,7.5,4,7.5,,
+43,KX-PRWA13W,8,4,8,,
+44,KX-T30865-CHOOSE COLOR,,,,,
+45,KX-TA824PK,18,14.5,17.5,,
+46,KX-TDA0194,1.75,6,9.75,,
+47,KX-TG6845B,8,6,11,,https://www.teledynamics.com/tdresources/28485cb4-2b8c-4572-9ecd-1da63bd818b9.pdf
+48,KX-TS880B,9,4,7,,https://www.teledynamics.com/tdresources/aee7b766-8a8c-4a64-bbf7-7951e1ff3633.pdf
+49,KX-WT125,6.5,4,5,,https://www.teledynamics.com/tdresources/KX-WT125doc1.pdf
+50,TYWK103PV9,,,,,
+51,TY-WK85PV12,,,,,
